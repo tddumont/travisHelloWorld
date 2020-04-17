@@ -7,5 +7,5 @@ addons:
   organization: tddumont
   token: d5807d5ca71e8e1cafe3a4c7edf598ebfd8a47ec
 script:
- - ant build
- - sonar-scanner
+- ant build
+- sonar-scanner
