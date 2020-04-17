@@ -18,7 +18,7 @@ sonar.links.issue=https://github.com/tddumont/travisHelloWorld/issues
 sonar.host.url=https://sonarcloud.io
 sonar.organization=tddumont
 sonar.login=d5807d5ca71e8e1cafe3a4c7edf598ebfd8a47ec
-sonar.sources=src
+sonar.sources=.
 sonar.language=java
 
 
