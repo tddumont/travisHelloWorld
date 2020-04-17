@@ -1,0 +1,33 @@
+sonar.projectKey=tddumont_travisHelloWorld
+sonar.projectName=travisHelloWorld
+
+# =====================================================
+#   Meta-data for the project
+# =====================================================
+
+sonar.links.homepage=https://github.com/tddumont/travisHelloWorld
+sonar.links.ci=https://travis-ci.org/tddumont/travisHelloWorld
+sonar.links.scm=https://github.com/tddumont/travisHelloWorld
+sonar.links.issue=https://github.com/tddumont/travisHelloWorld/issues
+
+
+# =====================================================
+#   Properties that will be shared amongst all modules
+# =====================================================
+
+sonar.host.url=https://sonarcloud.io
+sonar.organization=tddumont
+sonar.login=d5807d5ca71e8e1cafe3a4c7edf598ebfd8a47ec
+sonar.sources=src
+sonar.language=java
+
+
+
+# =====================================================
+#   Java config
+# =====================================================
+sonar.java.source=1.8
+sonar.java.binaries=.
+
+# Debug
+sonar.verbose=true
